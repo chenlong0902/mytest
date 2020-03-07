@@ -1,0 +1,6 @@
+framework module ZZB {
+  umbrella header "ZZB-umbrella.h"
+
+  export *
+  module * { export * }
+}

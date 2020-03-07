@@ -1,0 +1,22 @@
+{
+  "name": "ZZB",
+  "version": "0.1.0",
+  "summary": "A short description of ZZB.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/chenlong0902/ZZB",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "chenlong0902": "360009004@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/chenlong0902/ZZB.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ZZB/Classes/**/*"
+}
